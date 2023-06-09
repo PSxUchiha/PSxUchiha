@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PSxUchiha
-- 👀 I’m interested in Linux and suckless projects.
-- 🌱 I’m currently learning C, python.
-- 💞️ I’m looking to collaborate on my dotfiles.
+- Hi, I’m @PSxUchiha
+- I’m interested in Linux and other open source projects.
+- I have a decent understanding of bash, Java, python, C and Linux.
+- I’m looking to collaborate on project translation, or automation scripts.
 
 <!---
 PSxUchiha/PSxUchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
